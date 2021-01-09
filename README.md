@@ -3,4 +3,6 @@ A collection of tools I made to manipulate PDF tools with using the PyPDF2 libra
 
 I've found that the most useful ones are Join.py, Extract.py, and Split.py. I've used these programs a lot, with all our assignments being online. They're especially useful for composing reports.
 
-# Index
+## Index
+
+### Count Pages.py
